@@ -24,27 +24,6 @@ A full-stack store website for **India Bazaar OKC**, an Indian and South Asian g
 
 ---
 
-## 📸 Screenshots
-
-| Storefront | Product Page |
-|---|---|
-| ![Storefront](./screenshots/home.png) | ![Product Page](./screenshots/products.png) |
-
-| Checkout | singleOrder |
-|---|---|
-| ![Checkout](./screenshots/checkout.png) | ![Order Tracking](./screenshots/singleOrder.png) |
-
-| Admin Dashboard | Admin Orders |
-|---|---|
-| ![Admin Dashboard](./screenshots/adminDashboard.png) | ![Admin Orders](./screenshots/adminOrders.png) |
-
-| Delivery Partner Dashboard |
-|---|
-| ![Delivery Dashboard](./screenshots/deliveryPartner.png) |
-
-
----
-
 ## ✨ Features
 
 ### 🛍️ Customer Storefront
