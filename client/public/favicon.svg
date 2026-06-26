@@ -1,0 +1,40 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">India Bazaar OKC b logo</title>
+  <desc id="desc">A rounded orange badge with a cream interior and a clean stylized orange b mark made from a vertical line, a smaller separate lower curve, and a leaf accent.</desc>
+
+  <!-- Rounded badge -->
+  <rect
+    x="88"
+    y="88"
+    width="848"
+    height="848"
+    rx="120"
+    fill="#FFF8EA"
+    stroke="#F97316"
+    stroke-width="52"
+  />
+
+  <!-- Leaf accent above the line -->
+  <path
+    d="M414 230C458 246 480 288 467 326C452 368 402 390 360 374C343 325 363 270 414 230Z"
+    fill="#F97316"
+  />
+
+  <!-- Separate vertical line -->
+  <rect
+    x="360"
+    y="385"
+    width="74"
+    height="390"
+    rx="8"
+    fill="#F97316"
+  />
+
+  <!-- Smaller separate curve, placed lower than the line top -->
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M502 460C623 460 712 541 712 646C712 750 623 812 502 812V738C582 738 641 700 641 646C641 589 582 534 502 534V460Z"
+    fill="#F97316"
+  />
+</svg>
